@@ -18,6 +18,6 @@ forge "https://forgeapi.puppetlabs.com"
   
  mod 'puppetlabs-apache', '1.11.0'
  mod 'puppetlabs-mysql', '3.10.0'
- mod 'mayflower-php', '4.0.0-betal'
+ mod 'example42-php', '2.0.27'
  mod 'puppetlabs-concat'
  	
